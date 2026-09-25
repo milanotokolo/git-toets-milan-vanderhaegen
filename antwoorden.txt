@@ -2,9 +2,16 @@ ANTWOORDEN TOETS GIT & GITHUB
 Naam: Milan Vanderhaegen
 OPDRACHT 3
 1.
+Commando: git log --oneline
+Antwoord: 1c1538b
 2.
+commando git log -n 1 --oneline index.html
+Antwoord: a8ad21f
 3.
+commando: git blame index.html
+Antwoord: a8ad21ff
 4.
+commando:git show 1c1538b
 OPDRACHT 7
 a.
 b.
