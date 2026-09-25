@@ -1,18 +1,7 @@
-ANTWOORDEN TOETS GIT & GITHUB
-Naam: Milan Vanderhaegen
-OPDRACHT 3
-1.
-Commando: git log --oneline
-Antwoord: 1c1538b
-2.
-commando git log -n 1 --oneline index.html
-Antwoord: a8ad21f
-3.
-commando: git blame index.html
-Antwoord: a8ad21ff
-4.
-commando:git show 1c1538b
 OPDRACHT 7
-a.
-b.
-c.
+
+a. De push lukte niet omdat de repository op GitHub al een nieuwere commit (Titel aangepast) bevatte die lokaal nog ontbrak, waardoor de geschiedenis niet meer synchroon liep.
+
+b. Met 'git commit' sla je wijzigingen lokaal op als een nieuwe versie in de geschiedenis op jouw computer. Met 'git push' upload je die lokale commits naar de remote repository op GitHub.
+
+c. Door te werken op een aparte branch blijft de 'main'-branch altijd stabiel en werkend voor anderen. Je kunt de nieuwe code pas na uitvoerig testen en reviewen veilig samenvoegen.
