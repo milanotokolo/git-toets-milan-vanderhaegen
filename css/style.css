@@ -5,3 +5,8 @@ body {
 h1 {
     color: darkblue;
 }
+
+p {
+font-size: 18px;
+line-height: 1.5;
+}
